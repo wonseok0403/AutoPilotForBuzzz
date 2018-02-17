@@ -1,6 +1,7 @@
 # AutoPilotForBuzzz
 You can make your own buzzz server by executing these bash code files.
 
+Version : 1.1 < 17, Feb, 2017 >
 Helped : Myunghoom Lee, Cindy Jin.
 Immediate Superial : Philip Park.
 
